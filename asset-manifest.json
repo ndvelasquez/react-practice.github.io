@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ccf5a5cd.css",
+    "main.js": "/static/js/main.bdfefa95.js",
+    "static/media/percentage-discount.svg": "/static/media/percentage-discount.9eb4e37a450a651b8d3914da363c1d39.svg",
+    "static/media/ruler.svg": "/static/media/ruler.5f56a82a0ac9715a6b30a3e0d5d5e335.svg",
+    "static/media/input-numbers.svg": "/static/media/input-numbers.409467887d4e1bdab006ecbec04fae37.svg",
+    "index.html": "/index.html",
+    "main.ccf5a5cd.css.map": "/static/css/main.ccf5a5cd.css.map",
+    "main.bdfefa95.js.map": "/static/js/main.bdfefa95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf5a5cd.css",
+    "static/js/main.bdfefa95.js"
+  ]
+}
